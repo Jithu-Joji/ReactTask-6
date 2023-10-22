@@ -3,6 +3,7 @@ let resumeData = {
     "name": "Jithu Joji",
     "role": "Full Stack Developer",
     "linkedinId": "linkedin.com/in/jithu-joji/",
+    "mailId": "jithujoji@myyahoo.com",
     "skypeid": "Your skypeid",
     "roleDescription": "I like to learn and create applications in various parts of software development and like to learn about new technologies, write technical articles or simply play games in my free time.",
     "socialLinks": [
